@@ -1,0 +1,22 @@
+{
+  "name": "aws-email-reset-password",
+  "version": "1.0.0",
+  "description": "lambda function send email containing reset password link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duongtdn/aws-email-reset-password.git"
+  },
+  "author": "duongtdn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duongtdn/aws-email-reset-password/issues"
+  },
+  "homepage": "https://github.com/duongtdn/aws-email-reset-password#readme",
+  "dependencies": {
+    "aws-sdk": "^2.331.0"
+  }
+}
